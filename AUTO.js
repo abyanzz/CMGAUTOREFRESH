@@ -3,7 +3,7 @@
 // @namespace    http://cryptomininggame.com/
 // @version      0.2
 // @description  auto fill
-// @author       zenix
+// @author       ABYANZZ
 // @match        https://cryptomininggame.com/*
 // @icon         https://cryptomininggame.com/favicons/apple-icon-57x57.png
 // @grant        none
